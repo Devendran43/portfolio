@@ -1,23 +1,12 @@
 # Portfolio Site
 
-Welcome to my portfolio site! This project showcases my skills, projects, and experience as a web developer. It is built using React and styled with Tailwind CSS.
-
-## Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
+Welcome to my portfolio site! This project showcases my skills, projects, and experience as a Backend developer. It is built using React and styled with Tailwind CSS.
 
 ## Features
 
 - Responsive design that looks great on all devices.
 - Smooth scrolling navigation for easy access to different sections.
-- Sections for projects, skills, and contact information.
-- Light/dark mode toggle for improved user experience.
+- Sections for Home, About, Technologies, Projects, Experiences and contact information.
 
 ## Tech Stack
 
@@ -25,7 +14,6 @@ This portfolio site is built with:
 
 - **React** - A JavaScript library for building user interfaces.
 - **Tailwind CSS** - A utility-first CSS framework for styling.
-- **React Router** (optional) - For navigation between sections, if applicable.
 
 ## Installation
 
