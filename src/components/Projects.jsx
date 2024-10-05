@@ -27,11 +27,11 @@ const Projects = () => {
                             initial={{ opacity: 0, x: 100 }}
                             transition={{ duration: 1 }}
                             className="w-full max-w-xl lg:w-3/4">
-                            <h6 className="mb-3 font-semibold font-light tracking-widest text-lg">{project.title}</h6>
+                            <h6 className="mb-3 font-light tracking-widest text-lg">{project.title}</h6>
                             <p className="mb-4 text-neutral-400 font-light tracking-widest text-lg ">{project.description}</p>
                             <p className="mb-4 text-neutral-400 font-light tracking-widest text-lg">{project.responsibilties}</p>
                             {project.technologies.map((tech, index) => (
-                                <span key={index} className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-2xl font-medium text-purple-800">{tech}</span>
+                                <span key={index} className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-xl font-medium text-purple-800">{tech}</span>
                             ))}
                         </motion.div>
                     </div>

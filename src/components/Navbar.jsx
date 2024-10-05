@@ -7,7 +7,7 @@ const Navbar = () => {
             <div className="flex flex-shrink-0 items-center">
                 <img className="mx-5 my-5 w-full max-w-[110px]" src={logo} alt="logo"></img>
             </div>
-            <div className="m-8 flex items-center justify-center gap-10 text-2xl">
+            <div className="m-8 flex items-center justify-center gap-10 text-4xl">
                 <a href="https://github.com/Devendran43?tab=repositories" target="_blank" rel="noopener noreferrer">
                     <FaGithub />
                 </a>
