@@ -2,9 +2,9 @@ import a3nab from "../assets/projects/a3nab.jpg";
 import hakeem from '../assets/projects/Hakeem.png';
 import verizon from "../assets/projects/verizon.webp";
 
-export const HERO_CONTENT = `Welcome to my portfolio! I am a Fullstack Developer with four years of experience specializing in Node.js, Express.js, React, Oracle, and MySQL. Throughout my career, I have had the opportunity to work on complex projects in the healthcare, e-commerce, and telecommunications sectors. I am passionate about creating innovative solutions and am excited to contribute my skills to new challenges.`;
+export const HERO_CONTENT = `Welcome to my portfolio! I am a Backend Developer with four years of experience specializing in Node.js, Express.js, Oracle, and MySQL as well as React. Throughout my career, I have had the opportunity to work on complex projects in the healthcare, e-commerce, and telecommunications sectors. I am passionate about creating innovative solutions and am excited to contribute my skills to new challenges.`;
 
-export const ABOUT_TEXT = `I specialize in building robust and scalable APIs using Node.js and Express.js, having contributed to significant projects in the telecommunications sector with Verizon, as well as in e-commerce and booking platforms. My expertise extends to database management with MySQL and Oracle SQL, and I have developed user interfaces using React and Tailwind for various projects, including portfolios, e-commerce sites, and 3D applications. Additionally, I have played a key role in streamlining code release processes using Jenkins pipelines. I am passionate about solving complex problems and am actively seeking new opportunities to apply my skills.`;
+export const ABOUT_TEXT = `I specialize in building robust and scalable APIs using Node.js and Express.js, having contributed to significant projects in the telecommunications sector with Verizon, as well as in e-commerce and booking platforms. My expertise extends to database management with MySQL and Oracle SQL, and I have developed user interfaces using React and Tailwind for various projects. Additionally, I have played a key role in streamlining code release processes using Jenkins pipelines. I am passionate about solving complex problems and am actively seeking new opportunities to apply my skills.`;
 
 export const EXPERIENCES = [
   {
